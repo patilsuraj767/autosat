@@ -1,0 +1,7 @@
+{
+  "name": "autosat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
